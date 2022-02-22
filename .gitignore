@@ -2,4 +2,4 @@
 *
 
 #разрешить только папку main
-!main/*
+!Gest/app/src/main/*
