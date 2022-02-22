@@ -1,6 +1,0 @@
-#запретить всё
-*
-!/Gest/
-!/Gest/app
-!/Gest/app/src
-!/Gest/app/src/main/*
